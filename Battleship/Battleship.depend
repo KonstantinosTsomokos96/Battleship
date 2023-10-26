@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1621288383 source:c:\users\sero\desktop\battleship\deck.cpp
+	"deck.h"
+	"shuffler.h"
+
+1620857927 c:\users\sero\desktop\battleship\deck.h
+	"card.h"
+
+1621028486 c:\users\sero\desktop\battleship\card.h
+	<string>
+	"player.h"
+
+1621458736 c:\users\sero\desktop\battleship\player.h
+	"grid.h"
+
+1621111953 c:\users\sero\desktop\battleship\grid.h
+	"ship.h"
+
+1620854082 c:\users\sero\desktop\battleship\ship.h
+	"square.h"
+
+1619559419 c:\users\sero\desktop\battleship\square.h
+	<sstream>
+
+1622226705 c:\users\sero\desktop\battleship\shuffler.h
+	<iostream>
+	<cstdlib>
+
+1621104101 source:c:\users\sero\desktop\battleship\game.cpp
+	<iomanip>
+	<iostream>
+	"game.h"
+
+1621103712 c:\users\sero\desktop\battleship\game.h
+	"deck.h"
+	"player.h"
+
+1621111956 source:c:\users\sero\desktop\battleship\grid.cpp
+	<iostream>
+	<cstdlib>
+	"grid.h"
+	"player.h"
+
+1621795846 source:c:\users\sero\desktop\battleship\main.cpp
+	<iomanip>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"game.h"
+
+1621112955 source:c:\users\sero\desktop\battleship\player.cpp
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1619565180 source:c:\users\sero\desktop\battleship\ship.cpp
+	"ship.h"
+
+1619559430 source:c:\users\sero\desktop\battleship\square.cpp
+	<iostream>
+	"square.h"
+
+1622218168 source:c:\users\sero\desktop\battleship\card.cpp
+	"card.h"
+
+1622214570 source:c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\card.cpp
+	"card.h"
+
+1621024888 c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\card.h
+	<string>
+	"player.h"
+
+1621455138 c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\player.h
+	"grid.h"
+
+1621108354 c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\grid.h
+	"ship.h"
+
+1620850482 c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\ship.h
+	"square.h"
+
+1619555820 c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\square.h
+	<sstream>
+
+1621284784 source:c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\deck.cpp
+	"deck.h"
+	"shuffler.h"
+
+1620854328 c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\deck.h
+	"card.h"
+
+1622223106 c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\shuffler.h
+	<iostream>
+	<cstdlib>
+
+1621100502 source:c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\game.cpp
+	<iomanip>
+	<iostream>
+	"game.h"
+
+1621100114 c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\game.h
+	"deck.h"
+	"player.h"
+
+1621108358 source:c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\grid.cpp
+	<iostream>
+	<cstdlib>
+	"grid.h"
+	"player.h"
+
+1621792248 source:c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\main.cpp
+	<iomanip>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"game.h"
+
+1621109356 source:c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\player.cpp
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1619561580 source:c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\ship.cpp
+	"ship.h"
+
+1619555830 source:c:\users\konstantinos\onedrive\Υπολογιστής\oop2021\battleship\square.cpp
+	<iostream>
+	"square.h"
+
